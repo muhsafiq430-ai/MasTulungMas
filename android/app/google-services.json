@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1044701920351",
+    "project_id": "pinjamalat-55c4b",
+    "storage_bucket": "pinjamalat-55c4b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1044701920351:android:22edcd2babcd83ea81afea",
+        "android_client_info": {
+          "package_name": "com.example.pinjam_alat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMTA6xxBf_Z6Bs1tJlmstEKslepTVcsHo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
