@@ -27,7 +27,7 @@ Dokumen ini merupakan panduan pembagian tugas untuk fase perilisan dan pengemban
 ## 📈 3. Yoga (Marketing & Operations)
 *Penanggung jawab operasional, layanan pelanggan, dan pemasaran.*
 
-- `[ ]` Menyusun teks *Copywriting* (Deskripsi Singkat & Deskripsi Lengkap) untuk di Play Store agar menarik pengguna.
+- `[x]` Menyusun teks *Copywriting* (Deskripsi Singkat & Deskripsi Lengkap) untuk di Play Store agar menarik pengguna.
 - `[ ]` Menyiapkan *Customer Service* (misal: nomor WhatsApp / Email aktif) untuk menampung keluhan atau pertanyaan pengguna.
 - `[ ]` Merencanakan strategi peluncuran awal (mengajak teman, keluarga, atau komunitas untuk mencoba aplikasi).
 - `[ ]` Memonitor sistem operasional (jika aplikasi menghubungkan pencari bantuan dan penolong, pastikan ada *user* awal yang siap).
