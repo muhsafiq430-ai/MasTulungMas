@@ -52,7 +52,7 @@ class DefaultFirebaseOptions {
 
   static const FirebaseOptions android = FirebaseOptions(
     apiKey: 'AIzaSyDMTA6xxBf_Z6Bs1tJlmstEKslepTVcsHo',
-    appId: '1:1044701920351:android:22edcd2babcd83ea81afea',
+    appId: '1:1044701920351:android:7d8a3df6eb87296481afea',
     messagingSenderId: '1044701920351',
     projectId: 'pinjamalat-55c4b',
     storageBucket: 'pinjamalat-55c4b.firebasestorage.app',
