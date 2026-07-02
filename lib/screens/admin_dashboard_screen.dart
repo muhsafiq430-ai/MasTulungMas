@@ -173,6 +173,6 @@ class AdminDashboardScreen extends StatelessWidget {
           },
         );
       },
-    );
+    ); // streambuilder
   }
 }
