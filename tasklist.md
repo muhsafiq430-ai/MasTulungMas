@@ -3,32 +3,33 @@
 Dokumen ini merupakan panduan pembagian tugas untuk fase perilisan dan pengembangan lanjutan aplikasi **Mas Tulung Mas**.
 
 ## 👨‍💻 1. Safik (Project Manager & Lead Developer)
-*Penanggung jawab utama teknis aplikasi dan manajemen rilis.*
+Penanggung jawab utama dalam mengimplementasikan ide dan konsep aplikasi ke dalam kode pemrograman.. Rincian tugas yang menjadi tanggung jawabnya adalah sebagai berikut
 
-- `[ ]` Mengelola akun Google Play Console dan memantau status *review* aplikasi.
-- `[ ]` Mengisi kelengkapan data aplikasi di Play Console (Deskripsi, Kebijakan Privasi, Rating Konten, dll).
-- `[ ]` Mengunggah (*upload*) file `app-release.aab` ke Google Play Store (Jalur Pengujian Internal / Produksi).
-- `[ ]` Memastikan file rahasia (seperti `upload-keystore.jks` & `google-services.json`) tersimpan dengan aman di Google Drive tertutup.
-- `[ ]` Menangani jika ada laporan *bug* (error) teknis dari pengguna awal.
-
----
-
-## 🎨 2. Alfian (UI/UX & Asset Management)
-*Penanggung jawab tampilan visual dan aset pendukung aplikasi.*
-
-- `[ ]` Menyiapkan *Screenshot* aplikasi (ukuran HP dan Tablet) untuk kebutuhan halaman Google Play Store.
-- `[ ]` Membuat desain *Feature Graphic* (banner ukuran 1024x500px) untuk Play Store.
-- `[ ]` Mendesain materi promosi (poster/feed Instagram) untuk peluncuran aplikasi.
-- `[ ]` Meninjau ulang tampilan antarmuka (UI) aplikasi apakah sudah konsisten atau ada yang perlu diperbaiki.
-- `[ ]` Mencatat *feedback* terkait kenyamanan penggunaan (UX) dari *tester* (pengguna uji coba).
+- `[ ]` Mengatur struktur proyek Flutter dan melakukan konfigurasi sistem Firebase.
+- `[ ]` Mengimplementasikan antarmuka desain dan fitur inti aplikasi ke dalam bahasa pemrograman Dart.
+- `[ ]` Mengintegrasikan gerbang pembayaran Midtrans menggunakan backend Flask dan token Snap.
+- `[ ]` Mengimplementasikan sistem autentikasi pengguna dan pembagian rute berdasarkan peran.
+- `[ ]` Menangani logika teknis aplikasi seperti deteksi lokasi GPS.
 
 ---
 
-## 📈 3. Yoga (Marketing & Operations)
-*Penanggung jawab operasional, layanan pelanggan, dan pemasaran.*
+## 🎨 2. Alfian Hafidz Affandi
+Penanggung jawab mengenai ide aplikasi, desain antarmuka, dan proses publikasi aplikasi ke ekosistem Android. Rincian tugas yang menjadi tanggung jawabnya adalah sebagai berikut:
 
-- `[x]` Menyusun teks *Copywriting* (Deskripsi Singkat & Deskripsi Lengkap) untuk di Play Store agar menarik pengguna.
-- `[ ]` Menyiapkan *Customer Service* (misal: nomor WhatsApp / Email aktif) untuk menampung keluhan atau pertanyaan pengguna.
-- `[ ]` Merencanakan strategi peluncuran awal (mengajak teman, keluarga, atau komunitas untuk mencoba aplikasi).
-- `[ ]` Memonitor sistem operasional (jika aplikasi menghubungkan pencari bantuan dan penolong, pastikan ada *user* awal yang siap).
-- `[ ]` Memantau ulasan (*review* & *rating*) di Play Store ketika aplikasi sudah rilis dan membalasnya.
+- [ ] Merancang ide dan konsep utama dari aplikasi MasTulungMas.
+- [ ] Menyiapkan ikon aplikasi dan aset visual untuk kebutuhan publikasi.
+- [ ] Mengunggah berkas aplikasi dengan format AAB ke Google Play Store untuk tahapan pengujian.
+- [ ] Mengelola akun Google Play Console dan memantau status peninjauan aplikasi.
+- [ ] Menyusun, melengkapi, dan merapikan seluruh dokumen laporan proyek UAS.
+
+---
+
+## 📈 3. Yogarafi Arifianto
+Bertugas membantu penulisan kode pemrograman, membuat materi promosi, serta menyusun dokumentasi pelaporan. Rincian tugas yang menjadi tanggung jawabnya adalah sebagai berikut:
+
+- [ ] Membantu mengimplementasikan fitur-fitur tambahan aplikasi ke dalam kode pemrograman.
+- [ ] Mendesain antarmuka (UI/UX) untuk seluruh halaman pengguna mencakup Konsumen, Penolong, dan Admin.
+- [ ] Mengimplementasikan fitur obrolan langsung dan sistem ulasan ke dalam aplikasi.
+- [ ] Membuat dan mendesain poster promosi digital yang menarik untuk kebutuhan media sosial.
+- [ ] Menyusun, melengkapi, dan merapikan seluruh dokumen laporan proyek UAS.
+- [ ] Menyiapkan formulir pendaftaran penguji beta beserta kode QR.
